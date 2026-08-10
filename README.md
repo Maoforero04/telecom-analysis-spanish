@@ -18,10 +18,10 @@ users_latam.csv (4,000 usuarios) — Información demográfica y de suscripción
 usage.csv (40,000 registros) — Registro de eventos de uso (llamadas y mensajes) durante 2024: id, user_id, type (call / text), date, duration (minutos, para llamadas), length (caracteres, para mensajes).
 
 plans.csv — Catálogo de los planes disponibles y sus condiciones: plan_name, messages_included, gb_per_month, minutes_included, usd_monthly_pay, usd_per_gb, usd_per_message, usd_per_minute.
+
 🔍 Etapas del análisis
 
 Paso 1: Cargar y explorar
-
 Exploración de la estructura de los tres datasets (dimensiones, tipos de datos, primeras filas).
 
 Paso 2: Identificación de problemas de calidad de datos
