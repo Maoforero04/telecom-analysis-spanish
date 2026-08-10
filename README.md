@@ -13,7 +13,9 @@ Traducir los hallazgos en conclusiones accionables: qué segmentos son más vali
 El proyecto integra tres datasets:
 
 users_latam.csv (4,000 usuarios) — Información demográfica y de suscripción de cada usuario: user_id, first_name, last_name, age, city, reg_date, plan, churn_date.
+
 usage.csv (40,000 registros) — Registro de eventos de uso (llamadas y mensajes) durante 2024: id, user_id, type (call / text), date, duration (minutos, para llamadas), length (caracteres, para mensajes).
+
 plans.csv — Catálogo de los planes disponibles y sus condiciones: plan_name, messages_included, gb_per_month, minutes_included, usd_monthly_pay, usd_per_gb, usd_per_message, usd_per_minute.
 🔍 Etapas del análisis
 
