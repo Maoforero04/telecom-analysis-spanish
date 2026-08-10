@@ -50,12 +50,14 @@ Visualización: gráficos de barra mostrando la distribución de usuarios según
 Paso 7: Insight ejecutivo para stakeholders
 
 Traducción de los hallazgos del análisis en conclusiones accionables para el negocio, enfocadas en segmentación, patrones de uso y oportunidades comerciales.
+
 ▶️ Cómo ejecutar el notebook
 Google Colab (recomendado)
 Abre Google Colab.
 Ve a Archivo > Abrir notebook > GitHub, pega la URL de este repositorio y selecciona el notebook (.ipynb).
 Sube los tres datasets (users_latam.csv, usage.csv, plans.csv) a la sesión de Colab desde el panel de archivos (ícono de carpeta a la izquierda), o móntalos desde Google Drive si prefieres persistencia entre sesiones.
 Ejecuta las celdas en orden con Entorno de ejecución > Ejecutar todas.
+
 🔁 Guía de reproducción
 Coloca los tres archivos fuente (users_latam.csv, usage.csv, plans.csv) en la misma carpeta que el notebook, o ajusta las rutas de carga según corresponda.
 Ejecuta el notebook en orden — cada paso depende del anterior (la limpieza precede al resumen de uso, que a su vez precede a la segmentación y las visualizaciones).
