@@ -1,4 +1,5 @@
 Análisis de Segmentación de Clientes — ConnectaTel
+
 🎯 Objetivo del proyecto
 
 ConnectaTel busca entender mejor a su base de clientes en Latinoamérica para optimizar su oferta de planes (Básico y Premium). Este proyecto analiza los datos de usuarios y su comportamiento de uso (llamadas y mensajes) durante el 2024 con el fin de:
