@@ -22,6 +22,7 @@ plans.csv — Catálogo de los planes disponibles y sus condiciones: plan_name, 
 🔍 Etapas del análisis
 
 Paso 1: Cargar y explorar
+
 Exploración de la estructura de los tres datasets (dimensiones, tipos de datos, primeras filas).
 
 Paso 2: Identificación de problemas de calidad de datos
