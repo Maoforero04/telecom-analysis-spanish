@@ -8,6 +8,7 @@ Construir un resumen del comportamiento de uso por usuario.
 Segmentar a los clientes según su edad y nivel de uso.
 Identificar patrones y valores atípicos (outliers) relevantes para el negocio.
 Traducir los hallazgos en conclusiones accionables: qué segmentos son más valiosos, qué oportunidades comerciales existen y qué cambios se recomiendan en los planes actuales o en la creación de nuevos planes.
+
 📊 Datasets utilizados
 
 El proyecto integra tres datasets:
